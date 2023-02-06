@@ -26,8 +26,6 @@ Los componentes centrales para el desarrollo de la funcionalidad son: ItemListCo
 
 Comenzamos instalando el software necesario, NodeJS, npm, etc. Luego con el comando npx create-react-app para generar la estructura básica de un proyecto ReactJS.
 
-Decidí reutilizar los diseños del proyecto Habemus Papa! que realizamos en el curso de Desarrollo Web también en CoderHouse https://github.com/Diego-Schmidt/habemus-full-responsive/tree/habemus-sass
-
 Para crear la funcionalidad necesaria para un proyecto ecommerce con carrito tuvimos que crear varios componentes. NavBar, Footer, CartContext, CartWidget, Item, ItemList, ItemListContainer, ItemDetailContainer, ItemDetail, ItemCount, LoadingSpinner y CartView, CheckOut.
 
 Navbar = Componente que contiene los links para la navegación dentro de la app, el logo y el ícono del carrito.
@@ -77,13 +75,3 @@ Agradezco a profesores y turores de CoderHouse por la guia y la buena onda en to
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contacto
-
-Diego Schmidt - [@diegogschmidt](https://twitter.com/diegogschmidt) - email@diegoschmidt.com
-
-Link del proyecto: [https://github.com/Diego-Schmidt/coderhouse-react](https://github.com/Diego-Schmidt/coderhouse-react)
-Web Deployment: [https://diego-schmidt.github.io/coderhouse-react/](https://diego-schmidt.github.io/coderhouse-react/)
